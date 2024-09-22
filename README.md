@@ -3,6 +3,8 @@
 
 ## Instruções:
 
+``` basta roda a instalação dos requirements.txt e o main.py via streamlit ```
+
 > Este teste de performance contém 12 itens que devem ser realizados sequencialmente. Cada item está relacionado a uma competência específica no desenvolvimento de aplicações com Streamlit. Utilize os dados provenientes do portal Data.Rio, seção turismo, e crie uma interface atraente para exibi-los. 
 
 [Data Rio](https://www.data.rio/search?groupIds=729990e9fbc04c6ebf81715ab438cae8)
@@ -36,6 +38,9 @@
 
     Implemente um serviço que permita ao usuário fazer o download dos dados filtrados em formato CSV diretamente pela interface da aplicação.
 
+    ``` Baixa CSV da tabela filtrada ```
+
+
 5. Utilizar Barra de Progresso e Spinners:
 
     Adicione uma barra de progresso e um spinner para indicar o carregamento dos dados enquanto o arquivo CSV é processado e exibido na interface.
@@ -64,20 +69,28 @@
 9. Criar Visualizações de Dados - Tabelas:
 
     Crie uma tabela interativa que exiba os dados carregados e permita ao usuário ordenar e filtrar as colunas diretamente pela interface.
+
+    ``` no Container de Dados ```
  
 
 10. Criar Visualizações de Dados - Gráficos Simples:
 
     Desenvolva gráficos simples (como barras, linhas, e pie charts) para visualização dos dados carregados, utilizando o Streamlit.
 
+    ``` no Container de Dados ```
+
+
 11. Criar Visualizações de Dados - Gráficos Avançados:
 
     Adicione gráficos mais avançados (como histograma ou scatter plot) para fornecer insights mais profundos sobre os dados.
+
+    ``` no Container de Dados ```
 
 12. Exibir Métricas Básicas:
 
     Implemente a exibição de métricas básicas (como contagem de registros, médias, somas) diretamente na interface para fornecer um resumo rápido dos dados carregados.
 
+    ``` no Container de Dados ```
 
 > Ao concluir, certifique-se de que a interface criada seja funcional, intuitiva e esteticamente agradável, proporcionando uma boa experiência ao usuário. Cada item deve ser implementado de forma a complementar a aplicação final, garantindo que todas as competências sejam avaliadas.
 
