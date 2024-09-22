@@ -5,6 +5,8 @@
 
 ``` basta roda a instalação dos requirements.txt e o main.py via streamlit ```
 
+[Evidência](prints/evidencia.pdf)
+
 > Este teste de performance contém 12 itens que devem ser realizados sequencialmente. Cada item está relacionado a uma competência específica no desenvolvimento de aplicações com Streamlit. Utilize os dados provenientes do portal Data.Rio, seção turismo, e crie uma interface atraente para exibi-los. 
 
 [Data Rio](https://www.data.rio/search?groupIds=729990e9fbc04c6ebf81715ab438cae8)
