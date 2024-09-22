@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+seaborn 
+numpy
+altair
+plotly
+nbformat 
+pydeck
+geopandas
+xlrd
+deep-translator
